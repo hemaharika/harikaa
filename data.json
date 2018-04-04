@@ -1,0 +1,31 @@
+{
+  "career":{
+  "info":"to pursue a challenging career"
+},
+"education":[
+  {
+    "degree":"SSC",
+    "school":"SCHOOL NAME",
+    "data":["2005","88%"]
+  },
+  {
+    "degree":"GRADUATION",
+    "school":"COLLEGE NAME",
+    "data":["2011","80%"]
+  }
+],
+"skills":[
+  {
+    "name":"operating system",
+    "info":["windows","fedora","ubuntu","redHat"]
+  },
+  {
+    "name":"languages",
+    "info":["c","c++","java"]
+  },
+  {
+  "name":"databases",
+  "info":["oracle","MySql"]
+}
+]
+}
